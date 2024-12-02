@@ -1,3 +1,5 @@
+#!/usr/bin/env bb
+
 (ns iban-gen
   (:require [clojure.string :as str]))
 
